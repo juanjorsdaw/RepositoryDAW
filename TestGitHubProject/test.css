@@ -26,4 +26,5 @@
 body{
 	animation-name:"HELLO";
 	background-color:gray;
+	font-style: italic;
 }
